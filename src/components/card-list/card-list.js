@@ -3,6 +3,7 @@ import classes from "./card-list.module.css";
 
 import Card from "../card/Card";
 
+// into App
 export const CardList = (props) => {
   return (
     <div className={classes.cardList}>
